@@ -1,0 +1,20 @@
+# React
+
+# Dependency directories
+/node_modules
+/build
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other common ignores
+*.tmp
+*.bak
+*.swp
