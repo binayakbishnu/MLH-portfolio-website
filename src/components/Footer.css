@@ -1,0 +1,26 @@
+.footer {
+  background: linear-gradient(135deg, #6fb1fc 0%, #4364f7 100%);
+  padding: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    padding: 10px;
+  }
+  .footer a {
+    font-size: 16px;
+    margin: 0 10px;
+  }
+}
